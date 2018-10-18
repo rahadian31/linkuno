@@ -1,0 +1,2 @@
+# linkuno
+script safelink converter
